@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 4bbefefb58435414a8951ad2fddd7019
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Dope
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 07ca80847dd0644de816f0c626288574, type: 3}
+  - {fileID: 12800000, guid: 8b32b34ab9e194332b1ce677a8fe6ba3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
