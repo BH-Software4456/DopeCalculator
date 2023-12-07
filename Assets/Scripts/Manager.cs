@@ -156,6 +156,9 @@ public class Manager : MonoBehaviour
 
     public void buttonTapped(char caption)
     {
+        if (caption == '.' && digitLabel.text.Contains("."))
+            return;
+
         if (errorDisplayed)
             clearCalc();
 
